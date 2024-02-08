@@ -19,7 +19,7 @@ body {
   max-width: 500px;
 }
 
-.form__input {
+input {
   border: 1px solid lightslategray;
   padding: 5px 10px;
 }
